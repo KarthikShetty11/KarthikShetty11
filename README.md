@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarthikShetty11
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning html/css/bootstrap/javascript/react
+- 👀 I’m interested in Web Analytics
+- 🌱 I’m currently learning html/css/javascript/react
 - 📫 How to reach me - kvshetty27@gmail.com
 
 <!---
