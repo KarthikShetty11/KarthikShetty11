@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KarthikShetty11
-- 👀 I’m interested in Web Analytics
-- 🌱 I’m currently learning html/css/javascript/react
-- 📫 How to reach me - kvshetty27@gmail.com
+- 👀 I’m interested in Software Development and Web Analytics.
+- 📫 How to reach me - kvshetty27@gmail.com / kvshetty21@gmail.com
 
 <!---
 KarthikShetty11/KarthikShetty11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
