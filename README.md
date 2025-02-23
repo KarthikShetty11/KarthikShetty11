@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarthikShetty11
-- 👀 I’m interested in Software Development and Web Analytics.
+- 👀 I’m interested in Web Analytics and Software Development.
 - 📫 How to reach me - kvshetty27@gmail.com / kvshetty21@gmail.com
 
 <!---
